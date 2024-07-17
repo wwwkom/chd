@@ -21,7 +21,6 @@ Contents
 --------
 
 .. toctree::
-
    vedio
    survey
    team
