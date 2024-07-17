@@ -4,7 +4,7 @@ Welcome to CHD!
 `Overview <https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456>`_
 
 .. image:: https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2014/09/22/12/43/mcdc7_theheart.jpg
-    :width: 80%
+    :width: 40%
     :align: center
     :alt: this is a beautiful image
 
