@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to CHD!
 ===================================
 
-**`Overview<https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456>`_**
+** `Overview<https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456>`_ **
 
 Congenital heart disease is one or more problems with the heart's structure that are present at birth. Congenital means that you're born with the condition. A congenital heart condition can change the way blood flows through the heart.
 
