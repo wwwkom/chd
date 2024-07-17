@@ -3,6 +3,11 @@ Welcome to CHD!
 
 `Overview <https://www.mayoclinic.org/diseases-conditions/adult-congenital-heart-disease/symptoms-causes/syc-20355456>`_
 
+.. image:: https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2014/09/22/12/43/mcdc7_theheart.jpg
+    :width: 80%
+    :align: center
+    :alt: this is a beautiful image
+
 Congenital heart disease is one or more problems with the heart's structure that are present at birth. Congenital means that you're born with the condition. A congenital heart condition can change the way blood flows through the heart.
 
 There are many different types of congenital heart defects. This article focuses on congenital heart disease in adults.
