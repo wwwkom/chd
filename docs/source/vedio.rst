@@ -3,8 +3,11 @@ Vedio
 
 Example video
 
-.. video:: https://github.com/wwwkom/chd/blob/main/docs/source/CHD4_2.mp4
+.. raw:: html
 
+<iframe height=498 width=510 src='https://mpvideo.qpic.cn/0bc3quac4aaaquaax6hanvsvbbodf2cqalqa.f10002.mp4?dis_k=e544c68f75eec1022f4596be6e60c2e9&dis_t=1721271109&play_scene=10120&auth_info=SdKS0qErNg9x4L+GnnMkC0wF&auth_key=e5feed297489d851616a6dc66913c366&auth_info=SZeox8kpNg9x4L+GnnMkHkY/ZWZPOT4dYR9BJj9LShN4YWNdNQQtQgYyYzVFHCk+UjU=&auth_key=ea125c6c106ffbcf66d9d19d22504f41&vid=wxv_3348666563540975620&format_id=10001' frameborder=0 'allowfullscreen'></iframe>
+
+.. video:: https://mpvideo.qpic.cn/0bc3quac4aaaquaax6hanvsvbbodf2cqalqa.f10002.mp4?dis_k=e544c68f75eec1022f4596be6e60c2e9&dis_t=1721271109&play_scene=10120&auth_info=SdKS0qErNg9x4L+GnnMkC0wF&auth_key=e5feed297489d851616a6dc66913c366&auth_info=SZeox8kpNg9x4L+GnnMkHkY/ZWZPOT4dYR9BJj9LShN4YWNdNQQtQgYyYzVFHCk+UjU=&auth_key=ea125c6c106ffbcf66d9d19d22504f41&vid=wxv_3348666563540975620&format_id=10001
 youtube example
 
 .. youtube:: RwHZ6VE7hiI
