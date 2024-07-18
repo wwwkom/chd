@@ -3,7 +3,7 @@ Vedio
 
 Example video
 
-.. video:: ./CHD4_2.mp4
+.. video:: CHD4_2.mp4
 
 youtube example
 
