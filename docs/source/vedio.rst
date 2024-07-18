@@ -3,7 +3,7 @@ Vedio
 
 Example video
 
-.. video:: CHD4_2.mp4
+.. video:: https://github.com/wwwkom/chd/blob/main/docs/source/CHD4_2.mp4
 
 youtube example
 
