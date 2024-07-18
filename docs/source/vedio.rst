@@ -1,13 +1,14 @@
 Vedio
 =====
 
-Example video
+Example video1
 
 .. raw:: html
+   <iframe height=300 width=500 frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow" allowFullScreen="true"></iframe>
 
-<iframe height=300 width=500 src='https://v.qq.com/x/cover/mzc00200zu3op5a/n0042r7i2ow.html' frameborder=0 'allowfullscreen'></iframe>
+Example video2
 
-.. video:: https://v.qq.com/x/cover/mzc00200zu3op5a/n0042r7i2ow.html
+.. video:: https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow
    :width: 500
    :height: 300
 
