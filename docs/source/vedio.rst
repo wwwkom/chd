@@ -7,8 +7,6 @@ Example video1
   :width: 500
   :height: 300
 
-youtube example
+Youtube example
 
 .. youtube:: RwHZ6VE7hiI
-  :width: 500
-  :height: 300
