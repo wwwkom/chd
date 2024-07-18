@@ -6,6 +6,7 @@ Welcome to CHD!
 .. image:: https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2014/09/22/12/43/mcdc7_theheart.jpg
     :width: 40%
     :align: center
+    :margin-bottom: 20px
     :alt: this is a beautiful image
 
 Congenital heart disease is one or more problems with the heart's structure that are present at birth. Congenital means that you're born with the condition. A congenital heart condition can change the way blood flows through the heart.
