@@ -14,11 +14,9 @@ Example video1
 Example video2
 
 .. video:: https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow
-
 .. video:: https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow
    :width: 500
    :height: 300
-
 youtube example
 
 .. youtube:: RwHZ6VE7hiI
