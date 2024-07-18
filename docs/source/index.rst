@@ -17,7 +17,7 @@ Some types of congenital heart disease may be mild. Others may cause life-threat
 
 Treatment for congenital heart disease may include regular health checkups, medicines or surgery. If you have adult congenital heart disease, ask your healthcare professional how often you need a checkup.
 
-Check out the :doc:`vedio` section for further information.
+Check out the :doc:`video` section for further information.
 
 .. note::
 
@@ -27,6 +27,6 @@ Contents
 --------
 
 .. toctree::
-   vedio
+   video
    survey
    team
