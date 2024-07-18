@@ -5,14 +5,6 @@ Example video1
 
 .. raw:: html
 
-<iframe src="//player.bilibili.com/player.html?aid=70961112&cid=122951107&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-.. raw:: html
-
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzk2MzQxNTQ3Ng==' frameborder=0 'allowfullscreen'></iframe>
-
-.. raw:: html
-
    <iframe height=300px width=500px frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow" allowFullScreen="true"></iframe>
 
 .. raw:: html
@@ -22,8 +14,6 @@ Example video1
 Example video2
 
 .. video:: https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow
-   :width: 500
-   :height: 300
 
 .. video:: https://v.qq.com/txp/iframe/player.html?vid=n0042r7i2ow
    :width: 500
