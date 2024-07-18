@@ -1,4 +1,4 @@
-Vedio
+Video
 =====
 
 Example video1
